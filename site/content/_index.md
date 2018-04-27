@@ -1,6 +1,5 @@
 ---
 title: Industry Leading Software Development. Onshore.
-type: "static"
 subtitle: 'Continuous Delivery, Test Driven Development.'
 image: /img/trevaunance-cove-15-08-17_032_headforwards-web-2048.jpg
 blurb:
