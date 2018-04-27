@@ -3,19 +3,29 @@ title: Industry Leading Software Development. Onshore.
 subtitle: 'Continuous Delivery, Test Driven Development.'
 image: /img/trevaunance-cove-15-08-17_032_headforwards-web-2048.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why outsource?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Our business model is different to most other outsource software companies.
+    We create dedicated teams for specific projects and never switch members to
+    other projects, nor do we have team members 'waiting on the bench' which
+    ultimately drives costs up.
 intro:
   heading: What we offer
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    We specialise in creating partnerships with our clients where we provide
+    dedicated teams of people working to help them achieve their business goal.
+
+
+    Our primary aim is to work with you, our client, to create and deliver
+    software that brings you business value.
+
+
+    We thrive when creating software that delivers our clients tangible business
+    value, and we’re fortunate enough to be able to do it in a place we love and
+    find inspiring.
+
+    Sticking to our core values of happy clients, great software, and effective
+    software teams, enable us to produce work we are proud of.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
@@ -32,10 +42,49 @@ products:
       fall in love with in our shop.
 values:
   heading: Our values
-  text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: >+
+    At Headforwards this understanding and passion is firmly rooted in our three
+    core values:
+
+
+    Happy Clients
+
+
+    Great Software
+
+
+    Effective Software Teams
+
+     
+
+    These intertwined values guide our decision making from the strategic to the
+    tactical to the day-to-day.
+
+
+    At Headforwards we are committed to delivering business value for our
+    clients through their software and software choices.
+
+
+    Flip that on it’s head and you have our definition of great software:
+    enabling clients to achieve their business objectives.
+
+
+    In order to create this great software we believe in bringing together
+    excellent software professionals and giving them the ability to work
+    together effectively and efficiently as a team.
+
+
+    We believe in people.
+
+
+    The people we work with are an integral part of our business, and we believe
+    in treating them in that way.
+
+    Company culture is something we think carefully about, and try to empower
+    our team to have the right work life balance.
+
+
+    This ultimately leads to a happy and productive workplace where people are
+    creating work they are proud of.
 ---
 
