@@ -1,6 +1,5 @@
 ---
-title: What We Do
-type: products
+title: "What We Do"
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
