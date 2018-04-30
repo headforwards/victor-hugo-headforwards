@@ -1,8 +1,9 @@
 ---
 title: What We Do
-type: "what-we-do"
+subtitle: Hello
 image: /img/products-jumbotron.jpg
-heading: What We Do
+blurb:
+  heading: Sub heading
+  text: Body text
 ---
-
 
