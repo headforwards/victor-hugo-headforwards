@@ -48,6 +48,8 @@ There are pockets of discussion happening everywhere within the organisation and
 
 Pair and Mob programming are hugely powerful ways to share knowledge. And, although it isn't necessarily going to benefit teams operating outside the realm of that project, it does help the individuals within the team utilising this process to increase their own knowledge and experience.
 
+
+
 ## Pair and Mob Programming
 
 ### What's the difference?
@@ -55,6 +57,8 @@ Pair and Mob programming are hugely powerful ways to share knowledge. And, altho
 Pair programming is self-explanatory, you take two members of the team and pair them up to work together on a task. This helps them increase the technical knowledge of the coding language, but also that of the domain they are operating in.
 
 Mob Programming is paired programming but on a larger scale. Instead of 2 members of the team working together, this is about the whole team getting together to work around a problem. This is a popular technique used by our .NET development teams. Often, I will see a whole team sat around a screen working directly with their client over video chat to discuss and solve problems. Working together strengthens the bond between the team but also allows new and possibly more creative ideas to flourish.
+
+
 
 ## Celebrate Failure
 
