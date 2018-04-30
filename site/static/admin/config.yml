@@ -80,16 +80,16 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
-		- file: "site/content/what-we-do/_index.md"
-          label: "What We Do"
-          name: "what-we-do"
+      - file: "site/content/what-we-do/_index.md"
+        label: "What We Do"
+        name: "what-we-do"
+        fields:
+        - {label: Title, name: title, widget: string}
+        - {label: Image, name: image, widget: image}
+        - label: Values
+          name: values
+          widget: list
           fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - label: Values
-            name: values
-            widget: list
-            fields:
-              - {label: Heading, name: heading, widget: string}
-              - {label: Text, name: text, widget: text}
-              - {label: Image, name: imageUrl, widget: image}
+            - {label: Heading, name: heading, widget: string}
+            - {label: Text, name: text, widget: text}
+            - {label: Image, name: imageUrl, widget: image}
