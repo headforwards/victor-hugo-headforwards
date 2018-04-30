@@ -16,17 +16,13 @@ We thrive when creating software that delivers our clients tangible business val
 
 Sticking to our core values of happy clients, great software, and effective software teams, enable us to produce work we are proud of.
 
-
-
-## How we work:
+**How we work:**
 
 Firstly we listen to you and your software needs. Once we fully understand the outcome that you want, we can propose and create an outsource software solution that will enable you to achieve your goals.
 
 If you have an existing software development team. It is important to know how you want your new outsource team to work with them.
 
-
-
-## Will they be working together?
+**Will they be working together?**
 
 Or are they a completely separate entity? We take the lead from you on this.
 
@@ -34,9 +30,7 @@ The next stage is to discuss different team options. Based on your indications w
 
 This process allows us to get a clearer idea of the perfect team for your project.
 
-
-
-## Recruitment:
+**Recruitment:**
 
 Our recruitment process is one of the key features that sets us apart from the crowd.
 
@@ -50,9 +44,7 @@ We conduct the first round of interviews remotely and if we feel the candidate w
 
 You are invited to join in the next round of interviews, where we only put people forward who we know would perform in the role. Then you get to make the final decision on who is the right fit for you and your team.
 
-
-
-## Requirements:
+**Requirements:**
 
 Software development is a continual process, requirements are constantly added and sometimes priorities will change. It is important to be flexible and that is one of the reasons why an Agile development process is so effective.
 
@@ -60,9 +52,7 @@ It is important to constantly review and react to the work being done, and to ma
 
 Effective collaboration between you and Headforwards enables us to create quality software that delivers value to your business.
 
-
-
-## The benefits:
+**The benefits:**
 
 Working with Headforwards allows you to create excellent software whilst concentrating on your core business. You will have access to a previously untapped pool of resources. Outsourcing with us also means you can easily scale up the project without overhead concerns.
 
@@ -76,9 +66,7 @@ We are gaining a reputation for being a progressive place to work, and the compa
 
 Our passion for Agile development allows complete flexibility throughout our project and means the team can be moulded around you and your projects needs. The team won’t have distractions from other work, as they will work solely for you. They will never be switched onto any other projects for other clients. We take the time to find out your needs and we tailor our package to you which enables us to create something special that performs for you.
 
-
-
-## Added value:
+**Added value:**
 
 We have a very high staff retention rate, which is mutually beneficial. You won’t suffer from a lack of continuity or loss of knowledge on your project like you would outsourcing to a traditional agency or somewhere with a high churn rate of people.
 
