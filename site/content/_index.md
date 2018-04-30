@@ -3,14 +3,14 @@ title: Industry Leading Software Development. Onshore.
 subtitle: 'Continuous Delivery, Test Driven Development.'
 image: /img/trevaunance-cove-15-08-17_032_headforwards-web-2048.jpg
 blurb:
-  heading: Why outsource?
+  heading: Why Outsource?
   text: >-
     Our business model is different to most other outsource software companies.
     We create dedicated teams for specific projects and never switch members to
     other projects, nor do we have team members 'waiting on the bench' which
     ultimately drives costs up.
 intro:
-  heading: What we offer
+  heading: What We Offer
   text: >-
     We specialise in creating partnerships with our clients where we provide
     dedicated teams of people working to help them achieve their business goal.
@@ -55,7 +55,7 @@ values:
 
     Effective Software Teams
 
-     
+
 
     These intertwined values guide our decision making from the strategic to the
     tactical to the day-to-day.
