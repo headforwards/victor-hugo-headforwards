@@ -1,6 +1,6 @@
 ---
 title: Our Values
-image: /img/about-jumbotron.jpg
+image: /img/img_0155-web-edit copy.jpg
 values:
   - heading: Happy Clients
     imageUrl: /img/about-shade-grown.jpg
