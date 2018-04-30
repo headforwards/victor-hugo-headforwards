@@ -81,6 +81,9 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
+          - {label: "Blurb", name: blurb, widget: object, fields: [
+                {label: "Heading", name: "heading", widget: string},
+                {label: "Text", name: "text", widget: "string"}]}
       - file: "site/content/what-we-do/_index.md"
         label: "What We Do"
         name: "what-we-do"
