@@ -1,6 +1,6 @@
 ---
 title: What We Do
-type: "static"
+type: "what-we-do"
 image: /img/products-jumbotron.jpg
 heading: What We Do
 ---
