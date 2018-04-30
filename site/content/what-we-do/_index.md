@@ -36,7 +36,7 @@ Our recruitment process is one of the key features that sets us apart from the c
 
 We don’t have developers “waiting on the bench” driving up costs. We recruit the perfect people for your specific project thus ensuring its success.
 
-**We have a well-defined application process**
+### We have a well-defined application process
 
 Once the desired roles for your team have been agreed we look at our CV bank to see if we have the right applicants already on file. We would then market the role through our various channels.
 
