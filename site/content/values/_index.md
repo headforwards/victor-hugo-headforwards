@@ -23,5 +23,11 @@ values:
       understanding of ecosystem services, the study of relationships between
       organisms and their environment. What grows where and how it is grown are
       a matter of choice and careful consideration for nature and communities.
+blurb:
+  heading: Culture is Critical
+  text: >-
+    It is our belief and experience that successful organisations and businesses
+    are those that have a true understanding and passion of who they are and
+    what they have set out to achieve.
 ---
 
