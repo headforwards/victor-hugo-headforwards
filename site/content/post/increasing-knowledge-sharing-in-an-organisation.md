@@ -7,6 +7,7 @@ description: >-
   successful product delivery and enhance the knowledge of individuals in the
   team. So, how do we make these experiences visible to a whole organisation?
 image: /img/th_5c637ee99544eadfc76ba6811049822e_crossteamexperiencebanner.jpg
+author: Jake Kimpton
 ---
 At the time of writing this, I can guarantee that somebody, somewhere within our organisation is talking about some form of new tech or how they solved the unsolvable - either in person or via Skype, Slack, Email etc.
 
