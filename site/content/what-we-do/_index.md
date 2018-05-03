@@ -16,6 +16,8 @@ We thrive when creating software that delivers our clients tangible business val
 
 Sticking to our core values of happy clients, great software, and effective software teams, enable us to produce work we are proud of.
 
+{{< gallery dir="/img/galleries/what-we-do" />}}
+
 ## How we Work
 
 Firstly we listen to you and your software needs. Once we fully understand the outcome that you want, we can propose and create an outsource software solution that will enable you to achieve your goals.
