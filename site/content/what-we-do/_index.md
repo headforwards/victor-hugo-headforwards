@@ -16,7 +16,7 @@ We thrive when creating software that delivers our clients tangible business val
 
 Sticking to our core values of happy clients, great software, and effective software teams, enable us to produce work we are proud of.
 
-{{< gallery dir="img/galleries/what-we-do" />}} {{< photoswipe />}}
+{{< gallery dir="img/galleries/what-we-do" />}} {{< load-photoswipe >}}
 
 ## How we Work
 
